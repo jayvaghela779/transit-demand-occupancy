@@ -1,0 +1,15 @@
+# Technical Decisions
+
+Some choices will affect the quality of the predictions and how reliably the results can be reproduced. I'll record the reasoning here as those choices are made.
+
+| Topic | What needs to be decided | Status |
+|---|---|---|
+| Data cleaning | How to handle missing or invalid records | To investigate |
+| Train/test split | Which time periods to use for evaluation | To investigate |
+| Baseline | Which simple method to compare against | To investigate |
+| Evaluation | Which metrics to report | To investigate |
+| Reproducibility | How to record dependencies and run settings | To investigate |
+
+## Recording a decision
+
+For important choices, I'll note the alternatives considered, why one approach was selected, and how it was checked. Decisions may be updated if the data or experiment results suggest a better approach.
