@@ -15,3 +15,7 @@ For each experiment, I'll record:
 ## Initial entry — 27 October 2026
 
 The experiment log has been created. Results will be added after the corresponding experiments have been run.
+
+### Comparing Predictions with Actual Values
+
+When evaluating a model, compare its predicted passenger demand or occupancy with the actual values for the same time period. Record the evaluation metrics used and note any differences that may need further investigation.
